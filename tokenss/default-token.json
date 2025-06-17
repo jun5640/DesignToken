@@ -1,0 +1,14 @@
+{
+  "global": {
+    "jun5640": {
+      "value": "12",
+      "type": "sizing"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
