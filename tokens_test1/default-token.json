@@ -1,10 +1,5 @@
 {
-  "global": {
-    "red": {
-      "value": "#d15c5c",
-      "type": "color"
-    }
-  },
+  "global": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
