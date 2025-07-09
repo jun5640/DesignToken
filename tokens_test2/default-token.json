@@ -72,10 +72,6 @@
         "value": "80",
         "type": "sizing"
       },
-      "160": {
-        "value": "160",
-        "type": "sizing"
-      },
       "color-a": {
         "value": "#ff0",
         "type": "color"
