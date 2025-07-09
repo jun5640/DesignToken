@@ -1,0 +1,102 @@
+{
+  "global": {
+    "background": {
+      "red": {
+        "value": "#FF0000",
+        "type": "color"
+      },
+      "green": {
+        "value": "#00FF00",
+        "type": "color"
+      },
+      "blue": {
+        "value": "#0000FF",
+        "type": "color"
+      },
+      "gray": {
+        "value": "#D9D9D9",
+        "type": "color"
+      }
+    },
+    "rect": {
+      "40": {
+        "value": "40",
+        "type": "sizing"
+      },
+      "80": {
+        "value": "80",
+        "type": "sizing"
+      },
+      "160": {
+        "value": "160",
+        "type": "sizing"
+      },
+      "color-a": {
+        "value": "#FFFF00",
+        "type": "color"
+      },
+      "color-b": {
+        "value": "#00FFFF",
+        "type": "color"
+      },
+      "color-c": {
+        "value": "#FF00FF",
+        "type": "color"
+      }
+    },
+    "btn-text": {
+      "text-a": {
+        "value": {
+          "fontFamily": "Noto Sans",
+          "lineHeight": "10px",
+          "fontSize": "40",
+          "letterSpacing": "10px",
+          "fontWeight": "Regular"
+        },
+        "type": "typography"
+      },
+      "text-b": {
+        "value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": "Bold",
+          "fontSize": "40",
+          "lineHeight": "10",
+          "letterSpacing": "10px"
+        },
+        "type": "typography"
+      },
+      "text-c": {
+        "value": {
+          "fontFamily": "Noto Sans",
+          "fontWeight": "Italic",
+          "fontSize": "40",
+          "lineHeight": "10",
+          "letterSpacing": "10px"
+        },
+        "type": "typography"
+      }
+    },
+    "padding": {
+      "all": {
+        "20": {
+          "value": "20",
+          "type": "spacing"
+        },
+        "40": {
+          "value": "40",
+          "type": "spacing"
+        },
+        "160": {
+          "value": "160",
+          "type": "spacing"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
